@@ -14,4 +14,38 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="snake.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="other.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="food.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="snake.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="constant.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="other.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="food.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
